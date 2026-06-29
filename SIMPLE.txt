@@ -1,0 +1,69 @@
+═══════════════════════════════════════════════════════════════════════════════
+                    SIMPLEST POSSIBLE TERMINAL GUIDE
+═══════════════════════════════════════════════════════════════════════════════
+
+DO THIS (3 STEPS):
+
+1. Press: Windows Key + R
+2. Type: cmd
+3. Press: Enter
+
+═══════════════════════════════════════════════════════════════════════════════
+
+THEN COPY THIS EXACT LINE AND PASTE IT:
+
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+
+═══════════════════════════════════════════════════════════════════════════════
+
+THEN DO THIS (3 STEPS):
+
+1. Right-click in command prompt
+2. Click: Paste
+3. Press: Enter
+
+═══════════════════════════════════════════════════════════════════════════════
+
+THEN THIS (2 STEPS):
+
+1. Type: 6
+2. Press: Enter
+
+═══════════════════════════════════════════════════════════════════════════════
+
+DONE! PROGRAM RUNS! ✅
+
+═══════════════════════════════════════════════════════════════════════════════
+
+WHAT YOU'LL SEE:
+
+After step 3 above, you'll see menu:
+
+Enter your choice (0-6): _
+
+That's when you type 6 and press Enter.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+MENU OPTIONS (What to type when menu appears):
+
+6 = Quick Demo (START HERE) ⭐
+5 = Run All Programs
+3 = Analyze Your Own File
+4 = Full Investigation
+1 = Basic Framework
+2 = Advanced Framework
+0 = Exit
+
+═══════════════════════════════════════════════════════════════════════════════
+
+THAT'S IT!
+
+Total steps: 9
+Total typing: 2 (the numbers 6)
+Total pasting: 1 (the command)
+Total time: 2-3 minutes
+
+═══════════════════════════════════════════════════════════════════════════════
+
+

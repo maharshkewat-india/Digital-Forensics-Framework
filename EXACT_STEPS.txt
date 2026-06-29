@@ -1,0 +1,339 @@
+═══════════════════════════════════════════════════════════════════════════════
+                 EXACT STEP-BY-STEP WHAT TO TYPE IN TERMINAL
+═══════════════════════════════════════════════════════════════════════════════
+
+EXACTLY WHAT YOU SHOULD DO:
+
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 1: OPEN TERMINAL
+───────────────────────────────────────────────────────────────────────────────
+
+Press keys: Windows + R
+
+You'll see a small box appear (Run dialog)
+
+
+STEP 2: TYPE COMMAND TO OPEN CMD
+───────────────────────────────────────────────────────────────────────────────
+
+Type exactly: cmd
+
+Press: Enter
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+NOW A TERMINAL WINDOW OPENS - You see:
+
+Microsoft Windows [Version 10.0.xxxxx]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\MAHARSH>
+
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 3: COPY THE COMMAND BELOW
+───────────────────────────────────────────────────────────────────────────────
+
+Highlight this entire line:
+
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+
+Right-click and select: Copy
+
+
+STEP 4: PASTE IN TERMINAL
+───────────────────────────────────────────────────────────────────────────────
+
+Right-click in the command prompt window
+
+Click: Paste
+
+Press: Enter
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+NOW YOU'LL SEE THE MENU - This appears:
+
+╔════════════════════════════════════════════════════════════════╗
+║         DIGITAL EVIDENCE FRAMEWORK - MASTER LAUNCHER           ║
+║                   Run Everything With One Click!               ║
+╚════════════════════════════════════════════════════════════════╝
+
+
+📋 SELECT PROGRAM TO RUN:
+
+  1. Basic Framework (Automated)
+     └─ Auto-runs with test file. No user input.
+     └─ Runtime: ~2 seconds
+
+  2. Advanced Framework (Stress Test)
+     └─ Creates 5MB file and runs stress test. Slower but comprehensive.
+     └─ Runtime: ~10 seconds
+
+  3. Real File Analyzer (Interactive)
+     └─ Analyze any real file on your system.
+     └─ Runtime: ~2 seconds
+
+  4. Multi-User Framework (Interactive)
+     └─ Full workflow with detailed case information.
+     └─ Runtime: ~1 minute
+
+  5. Run ALL Programs Sequentially
+     └─ Runs all 4 programs one after another.
+     └─ Runtime: ~15 seconds
+
+  6. Quick Demo (Files 1 + 2)
+     └─ Shows both automated programs quickly.
+     └─ Runtime: ~12 seconds
+
+  0. EXIT
+
+Enter your choice (0-6):
+
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 5: CHOOSE YOUR OPTION
+───────────────────────────────────────────────────────────────────────────────
+
+Type ONE of these numbers:
+
+6 - START HERE! (Quick Demo)
+5 - Run All Programs
+3 - Analyze Your Own File
+4 - Full Investigation
+1 - Basic Framework
+2 - Advanced Framework
+0 - Exit
+
+
+EXAMPLE: For Quick Demo, type:
+
+6
+
+Press: Enter
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+THE PROGRAM RUNS - You'll see output like:
+
+============================================================
+▶️  RUNNING QUICK DEMO (Files 1 & 2)
+============================================================
+
+
+[1/2] Running: Basic Framework (Automated)
+────────────────────────────────────────────────────────────
+[+] Database initialized successfully.
+--- DIGITAL EVIDENCE COLLECTION FRAMEWORK (PROTOTYPE - FIXED) ---
+
+[+] Case 'CASE-2026-001' registered successfully.
+[*] Acquiring evidence from: dummy_evidence.txt...
+[+] Evidence logged successfully. Evidence ID: 4
+    MD5: 571ba7c2c46b756375444cbb047fbb0c
+    SHA-256: 80c5dab8296353aaae4ca858b622a1b48c3c2f81d1bb839337c4c12915379082
+[+] Chain of Custody updated for Evidence ID 4.
+
+==================================================
+ DIGITAL EVIDENCE FORENSIC REPORT
+==================================================
+Case ID: CASE-2026-001
+Investigator: Investigator Maharsh
+Date: 2026-05-09 14:49:26
+Summary: Unauthorized network access and data exfiltration.
+
+Evidence ID : 1
+Device Type : USB Flash Drive
+Label       : SanDisk Cruzer 16GB
+Seized At   : Office Desk
+MD5 Hash    : 571ba7c2c46b756375444cbb047fbb0c
+SHA-256     : 80c5dab8296353aaae4ca858b622a1b48c3c2f81d1bb839337c4c12915379082
+Stored In   : Evidence Locker A
+
+  --- Chain of Custody ---
+  [2026-05-09 14:49:27] System / Initial Investigator - Initial Seizure and Acquisition
+  [2026-05-09 14:49:27] Forensics Analyst Sarah - Creating working copy for analysis
+==================================================
+
+[+] Cleanup completed.
+
+════════════════════════════════════════════════════════════
+Preparing next program... (3 seconds)
+
+[2/2] Running: Advanced Framework (Stress Test)
+────────────────────────────────────────────────────────────
+Generating massive simulated evidence file...
+
+--- ADVANCED DIGITAL EVIDENCE COLLECTION FRAMEWORK ---
+
+[2026-05-09 15:30:41] INFO - System Initialized and Database connected.
+[2026-05-09 15:30:41] INFO - Acquiring evidence from source: massive_dummy_evidence.dat...
+[2026-05-09 15:30:41] INFO - Initiating cryptographic hashing for massive_dummy_evidence.dat
+[2026-05-09 15:30:41] DEBUG - Buffer flushed successfully at block 1025 to prevent overflow.
+[2026-05-09 15:30:41] INFO - Evidence locked into database. ID: 3 | MD5: be11eac8... | SHA256: 69b8b56a...
+... more output ...
+
+[2026-05-09 15:30:43] WARNING - --- STRESS TEST COMPLETE ---
+
+================================================================================
+                    DIGITAL EVIDENCE FORENSIC REPORT
+================================================================================
+Case ID:      CASE-2026-ADV
+Investigator: Maharsh
+Date:         2026-05-09 14:49:35
+Summary:      Advanced testing of scalable hashing and CoC logging.
+
+Evidence ID : 1
+Device Type : Seized Server HDD
+Label       : WD Red 4TB
+Seized At   : Data Center Rack 4
+MD5 Hash    : cd0fc4fe76fb6021f3b77e47204999a4
+SHA-256     : 4cce9ae24fb8655a6967e8a9a104f7b89a5ee102ab92019b98c8598918f3d0ca
+Stored In   : Evidence Locker High-Security
+
+  --- Chain of Custody Ledger ---
+  (Showing last 10 entries due to stress testing...)
+  [2026-05-09 14:49:37] Automated Test Script - Load test transaction 91
+  [2026-05-09 14:49:37] Automated Test Script - Load test transaction 92
+  ... more entries ...
+================================================================================
+
+✅ DEMO COMPLETED!
+
+⏎ Press Enter to return to menu...
+
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 6: PRESS ENTER
+───────────────────────────────────────────────────────────────────────────────
+
+After you see "⏎ Press Enter to return to menu..."
+
+Press: Enter
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+YOU'RE BACK AT MENU - You can:
+
+Enter your choice (0-6):
+
+Type another number to run something else, or:
+
+Type: 0
+
+Press: Enter
+
+To exit completely.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+THAT'S IT! YOU'RE DONE! ✅
+
+═══════════════════════════════════════════════════════════════════════════════
+
+SUMMARY OF EXACT STEPS:
+
+1. Windows Key + R
+2. Type: cmd
+3. Press: Enter
+4. Copy: cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+5. Right-click in terminal
+6. Click: Paste
+7. Press: Enter
+8. See menu
+9. Type: 6 (or any number)
+10. Press: Enter
+11. Watch program run
+12. Press: Enter to return to menu
+13. Type: 0 to exit
+14. Press: Enter
+
+═══════════════════════════════════════════════════════════════════════════════
+
+WHAT IF YOU CHOOSE OPTION 3 OR 4 (INTERACTIVE)?
+
+If you choose 3 (Real File Analyzer):
+
+It asks:
+  Enter file path:
+
+You type a file path like:
+  C:\Windows\System32\drivers\etc\hosts
+
+Press: Enter
+
+Then it analyzes the file and shows report.
+
+
+If you choose 4 (Multi-User Framework):
+
+It asks multiple questions one by one:
+
+  Enter Case ID (e.g., CASE-001):
+  >>> Type: CASE-2026-TEST
+  >>> Press: Enter
+
+  Enter Investigator Name:
+  >>> Type: Your Name
+  >>> Press: Enter
+
+  Enter Case Summary/Description:
+  >>> Type: Description
+  >>> Press: Enter
+
+  Enter File Path (e.g., C:\Users\Desktop\file.txt):
+  >>> Type: C:\Windows\System32\drivers\etc\hosts
+  >>> Press: Enter
+
+  Enter Device/File Type:
+  >>> Type: System File
+  >>> Press: Enter
+
+  Enter Evidence Label:
+  >>> Type: Test Evidence
+  >>> Press: Enter
+
+  Enter Owner's Name:
+  >>> Type: Owner
+  >>> Press: Enter
+
+  Enter Seizure Location:
+  >>> Type: Computer
+  >>> Press: Enter
+
+  Enter Storage Locker/Location:
+  >>> Type: Evidence Locker A
+  >>> Press: Enter
+
+  Enter purpose of handling this evidence:
+  >>> Type: Initial Analysis
+  >>> Press: Enter
+
+Then it generates complete report.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+COMMON FILE PATHS YOU CAN USE FOR TESTING:
+
+C:\Windows\System32\drivers\etc\hosts
+C:\Windows\System32\cmd.exe
+C:\Windows\win.ini
+
+Or any file on your computer, like:
+C:\\path\\to\\anyfile.txt
+
+═══════════════════════════════════════════════════════════════════════════════
+
+YOU'RE ALL SET! 
+
+Just follow these steps and everything will work! ✅
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+

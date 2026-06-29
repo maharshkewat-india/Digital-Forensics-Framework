@@ -1,0 +1,248 @@
+# 📋 TERMINAL COMMANDS - QUICK REFERENCE CARD
+
+## 🚀 FASTEST WAY (COPY & PASTE)
+
+```bash
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+```
+
+Then choose from menu: **1, 2, 3, 4, 5, 6, or 0**
+
+---
+
+## STEP-BY-STEP (SIMPLEST)
+
+### **Step 1: Open Terminal**
+```
+Windows Key + R
+Type: cmd
+Press: Enter
+```
+
+### **Step 2: Navigate**
+```
+cd "C:\\path\\to\\digital evidence freamwork"
+```
+
+### **Step 3: Run Launcher**
+```
+python LAUNCHER.py
+```
+
+### **Step 4: Choose Option**
+```
+Enter: 6    (for Quick Demo)
+Enter: 5    (for All Programs)
+Enter: 3    (for Real File Analysis)
+Enter: 4    (for Full Investigation)
+Enter: 0    (to Exit)
+```
+
+---
+
+## DIRECT PROGRAM COMMANDS
+
+### **Option 1: Basic Framework**
+```bash
+cd "C:\\path\\to\\digital evidence freamwork" && python "01_FIXED_digital_evidence_framework.py"
+```
+
+### **Option 2: Advanced Framework**
+```bash
+cd "C:\\path\\to\\digital evidence freamwork" && python "02 advance_digital_evidence_freamwork.py"
+```
+
+### **Option 3: Real File Analyzer**
+```bash
+cd "C:\\path\\to\\digital evidence freamwork" && python "03_FIXED_digital_evidence_real_file.py"
+```
+Then enter file path: `C:\Windows\System32\drivers\etc\hosts`
+
+### **Option 4: Multi-User Framework**
+```bash
+cd "C:\\path\\to\\digital evidence freamwork" && python "04_FIXED_digital_evidence_multiusers.py"
+```
+Then follow interactive prompts
+
+---
+
+## COMMON TERMINAL COMMANDS
+
+| What | Command |
+|------|---------|
+| Navigate | `cd "folder path"` |
+| List files | `dir` |
+| Check path | `cd` |
+| Run Python | `python filename.py` |
+| Python version | `python --version` |
+| Where is Python | `where python` |
+| Clear screen | `cls` |
+| Go back | `cd ..` |
+| Exit | `exit` |
+
+---
+
+## ONE-LINE COMMANDS (Just Copy & Paste)
+
+**Quick Demo (Recommended First):**
+```
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+```
+
+**Full Investigation:**
+```
+cd "C:\\path\\to\\digital evidence freamwork" && python "04_FIXED_digital_evidence_multiusers.py"
+```
+
+**Analyze Your File:**
+```
+cd "C:\\path\\to\\digital evidence freamwork" && python "03_FIXED_digital_evidence_real_file.py"
+```
+
+**Run All Programs:**
+```
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+```
+(Then type `5` and press Enter)
+
+---
+
+## MENU OPTIONS (After Running Launcher)
+
+```
+Enter your choice (0-6):
+
+1 = Basic Framework (auto, 2 sec)
+2 = Advanced Framework (auto, 10 sec)
+3 = Real File Analyzer (interactive, 2 sec)
+4 = Multi-User Framework (interactive, 60 sec)
+5 = Run ALL Programs (15 sec)
+6 = Quick Demo (12 sec) ⭐ START HERE
+0 = Exit
+```
+
+---
+
+## TERMINAL STEPS VISUALIZATION
+
+```
+┌─────────────────────────────────────────┐
+│ 1. Open Terminal (Windows Key + R)      │
+│    Type: cmd                            │
+│    Press: Enter                         │
+└─────────────────────────────────────────┘
+                    ↓
+┌─────────────────────────────────────────┐
+│ 2. Navigate to Folder                   │
+│    cd "c:\Users\...\digital evidence"   │
+│    Press: Enter                         │
+└─────────────────────────────────────────┘
+                    ↓
+┌─────────────────────────────────────────┐
+│ 3. Run Launcher                         │
+│    python LAUNCHER.py                   │
+│    Press: Enter                         │
+└─────────────────────────────────────────┘
+                    ↓
+┌─────────────────────────────────────────┐
+│ 4. Menu Appears - Choose Option         │
+│    Enter: 6 (or any number)             │
+│    Press: Enter                         │
+└─────────────────────────────────────────┘
+                    ↓
+┌─────────────────────────────────────────┐
+│ 5. Program Runs!                        │
+│    Watch output...                      │
+│    Press: Enter when done               │
+└─────────────────────────────────────────┘
+```
+
+---
+
+## EXPECTED COMMAND LINE OUTPUT
+
+### **After cd command:**
+```
+C:\\path\\to\\digital evidence freamwork>
+```
+
+### **After python LAUNCHER.py command:**
+```
+╔════════════════════════════════════════════════════════════════╗
+║         DIGITAL EVIDENCE FRAMEWORK - MASTER LAUNCHER           ║
+║                   Run Everything With One Click!               ║
+╚════════════════════════════════════════════════════════════════╝
+
+📋 SELECT PROGRAM TO RUN:
+
+  1. Basic Framework (Automated)
+  2. Advanced Framework (Stress Test)
+  3. Real File Analyzer (Interactive)
+  4. Multi-User Framework (Interactive)
+  5. Run ALL Programs Sequentially
+  6. Quick Demo (Files 1 + 2)
+  0. EXIT
+
+Enter your choice (0-6):
+```
+
+---
+
+## TROUBLESHOOTING QUICK FIXES
+
+**"Python not found"**
+```
+where python
+(Check if installed, if not: python.org)
+```
+
+**"File not found"**
+```
+dir
+(Check files exist in folder)
+```
+
+**"Wrong folder"**
+```
+cd
+(Shows current path)
+cd c:\
+(Go to C: drive)
+```
+
+**"Need to scroll up"**
+```
+Just scroll up in terminal to see full output
+```
+
+---
+
+## KEYBOARD SHORTCUTS IN TERMINAL
+
+| Shortcut | What It Does |
+|----------|------------|
+| `Ctrl + C` | Stop/Cancel running program |
+| `Ctrl + L` | Focus address bar |
+| `Tab` | Auto-complete command |
+| `Up Arrow` | Previous command |
+| `Down Arrow` | Next command |
+| `Cls` | Clear screen |
+
+---
+
+## THAT'S ALL YOU NEED!
+
+**3-Step Quick Start:**
+```
+1. Windows Key + R → cmd → Enter
+2. cd "C:\\path\\to\\digital evidence freamwork"
+3. python LAUNCHER.py
+```
+
+**Then choose 6 for Quick Demo!** ✅
+
+---
+
+**Want More Details? See: TERMINAL_COMMANDS.md**
+
+

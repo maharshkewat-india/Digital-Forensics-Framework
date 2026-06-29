@@ -1,0 +1,194 @@
+═══════════════════════════════════════════════════════════════════════════════
+          READY-TO-COPY COMMANDS - PASTE INTO TERMINAL
+═══════════════════════════════════════════════════════════════════════════════
+
+⭐ RECOMMENDED: Quick Demo (START HERE)
+─────────────────────────────────────────────────────────────────────────────
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+
+Then type: 6
+Then press: Enter
+
+═══════════════════════════════════════════════════════════════════════════════
+
+ALL AVAILABLE COMMANDS (Copy Any One)
+═════════════════════════════════════════════════════════════════════════════════
+
+1️⃣ QUICK DEMO (12 seconds)
+─────────────────────────────────────────────────────────────────────────────
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+
+Then type: 6 and press Enter
+
+
+2️⃣ RUN ALL PROGRAMS (15 seconds)
+─────────────────────────────────────────────────────────────────────────────
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+
+Then type: 5 and press Enter
+
+
+3️⃣ ANALYZE REAL FILE (2 seconds + user input)
+─────────────────────────────────────────────────────────────────────────────
+cd "C:\\path\\to\\digital evidence freamwork" && python "03_FIXED_digital_evidence_real_file.py"
+
+Then enter file path like: C:\Windows\System32\drivers\etc\hosts
+
+
+4️⃣ FULL FORENSIC INVESTIGATION (1 minute + user input)
+─────────────────────────────────────────────────────────────────────────────
+cd "C:\\path\\to\\digital evidence freamwork" && python "04_FIXED_digital_evidence_multiusers.py"
+
+Then follow all prompts
+
+
+5️⃣ BASIC FRAMEWORK ONLY (2 seconds)
+─────────────────────────────────────────────────────────────────────────────
+cd "C:\\path\\to\\digital evidence freamwork" && python "01_FIXED_digital_evidence_framework.py"
+
+
+6️⃣ ADVANCED FRAMEWORK ONLY (10 seconds)
+─────────────────────────────────────────────────────────────────────────────
+cd "C:\\path\\to\\digital evidence freamwork" && python "02 advance_digital_evidence_freamwork.py"
+
+
+7️⃣ OPEN LAUNCHER MENU (Choose any option)
+─────────────────────────────────────────────────────────────────────────────
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+
+Then choose from menu: 1, 2, 3, 4, 5, 6, or 0
+
+═══════════════════════════════════════════════════════════════════════════════
+
+HOW TO USE THESE COMMANDS
+═════════════════════════════════════════════════════════════════════════════════
+
+STEP 1: Open Command Prompt
+───────────────────────────
+  Press: Windows Key + R
+  Type: cmd
+  Press: Enter
+
+STEP 2: Copy One Command Above
+───────────────────────────────
+  Select the command text
+  Right-click
+  Click: Copy
+
+STEP 3: Paste Into Terminal
+────────────────────────────
+  Right-click in command prompt window
+  Click: Paste
+
+STEP 4: Press Enter
+────────────────────
+  Press: Enter
+
+STEP 5: Follow Any On-Screen Prompts
+─────────────────────────────────────
+  Some programs ask for input
+  Just type what they ask and press Enter
+
+═══════════════════════════════════════════════════════════════════════════════
+
+FASTEST COPY-PASTE (ONE-LINER)
+═════════════════════════════════════════════════════════════════════════════════
+
+Just copy this entire line and paste once:
+
+cd "C:\\path\\to\\digital evidence freamwork" && python LAUNCHER.py
+
+═══════════════════════════════════════════════════════════════════════════════
+
+MENU OPTIONS (After Running Launcher)
+═════════════════════════════════════════════════════════════════════════════════
+
+When you see this:
+  Enter your choice (0-6):
+
+Type one of these:
+
+  1  → Basic Framework (Automated, 2 sec)
+  2  → Advanced Framework (Automated, 10 sec)
+  3  → Real File Analyzer (Interactive, 2 sec)
+  4  → Multi-User Framework (Interactive, 60 sec)
+  5  → Run ALL Programs (Sequential, 15 sec)
+  6  → Quick Demo (12 sec) ⭐ BEST FOR FIRST TIME
+  0  → Exit
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BASIC TERMINAL COMMANDS CHEAT SHEET
+═════════════════════════════════════════════════════════════════════════════════
+
+Navigate to folder:
+  cd "C:\\path\\to\\digital evidence freamwork"
+
+List files in folder:
+  dir
+
+Check Python installed:
+  python --version
+
+Clear screen:
+  cls
+
+Go back one folder:
+  cd ..
+
+Exit terminal:
+  exit
+
+Stop running program:
+  Ctrl + C (hold Ctrl and press C)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+COMMON FILE PATHS FOR TESTING
+═════════════════════════════════════════════════════════════════════════════════
+
+When program asks for file path, you can use:
+
+C:\Windows\System32\drivers\etc\hosts
+C:\Windows\System32\cmd.exe
+C:\\path\\to\\anyfile.txt
+C:\Windows\win.ini
+
+Or create test file first:
+  echo test > C:\temp\test.txt
+
+═══════════════════════════════════════════════════════════════════════════════
+
+TROUBLESHOOTING QUICK COMMANDS
+═════════════════════════════════════════════════════════════════════════════════
+
+"Python not found" error:
+  python --version
+  (If fails, Python not installed)
+
+"File not found" error:
+  dir
+  (Check files exist)
+
+"Wrong directory" error:
+  cd
+  (Shows current location)
+
+"Need to go back":
+  cd ..
+
+═══════════════════════════════════════════════════════════════════════════════
+
+THAT'S ALL YOU NEED!
+
+1. Open Command Prompt (Windows Key + R, type cmd, press Enter)
+2. Copy command from above
+3. Paste into terminal (Right-click, Paste)
+4. Press Enter
+5. Done! ✅
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+
